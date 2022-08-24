@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="zh">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="zh" authors="Mark Pettinelli">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11157</md:content-id>
-    <md:title>实用心理学信息（评价的重要思想和研究)</md:title>
+    <md:title>&#x5B9E;&#x7528;&#x5FC3;&#x7406;&#x5B66;&#x4FE1;&#x606F;&#xFF08;&#x8BC4;&#x4EF7;&#x7684;&#x91CD;&#x8981;&#x601D;&#x60F3;&#x548C;&#x7814;&#x7A76;)</md:title>
     <md:language>zh</md:language>
     <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
     <md:uuid>d32cf82c-6baf-4d42-b3bb-ae5f78fa943e</md:uuid>
-<md:slug>shi-yong-xin-li-xue-xin-xi-ping-jie-de-zhong-yao-si-xiang-he-yan-jiu</md:slug>
-</metadata>
+    <md:slug>shi-yong-xin-li-xue-xin-xi-ping-jie-de-zhong-yao-si-xiang-he-yan-jiu</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m33282"/>
     <col:module document="m33284"/>
